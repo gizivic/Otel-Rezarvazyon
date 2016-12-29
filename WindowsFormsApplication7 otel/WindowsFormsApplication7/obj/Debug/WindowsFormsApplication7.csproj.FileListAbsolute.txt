@@ -1,0 +1,26 @@
+C:\Users\Administrator\Desktop\w.form\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+F:\w.form\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.bosodaForm2.resources
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.doluodaForm2.resources
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.anamenü.resources
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+F:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.müsteriaraForm2.resources
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.bosodaForm2.resources
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.doluodaForm2.resources
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.anamenü.resources
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.müsteriaraForm2.resources
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\w.form\WindowsFormsApplication7 otel\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
